@@ -4,6 +4,8 @@ Use bootloader to dump flash data. *Actually it is an exploit for built-in bootl
 
 Verified in CH558 with bootloader V231. CH559 should be okay too. Other chips (CH551/2/4) could be referred, but I'm not sure.
 
+Thanks for [MarsTechHAN/ch552tool](https://github.com/MarsTechHAN/ch552tool) to provide this idea.
+
 ## Usage
 
 Please install Python 3.x and PyUSB first.
